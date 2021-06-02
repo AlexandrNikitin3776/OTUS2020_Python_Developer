@@ -3,7 +3,7 @@
 
 [comment]: <> (TODO: Вставить ссылки на разные ветки)
 ## Содержание
-- [PS01 - Advanced Basics]()
+- [PS01 - Advanced Basics](https://github.com/AlexandrNikitin3776/OTUS2020_Python_Developer/tree/PS01-Advanced_Basics)
 - [PS01.1 - Декораторы]()
 - [PS01.2 - Покер]()
 - [PS02 - CPython]()
